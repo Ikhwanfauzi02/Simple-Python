@@ -1,6 +1,6 @@
 # Simple-Python
 just for practice
-Before attempting the Python code in your repository, you must install the Python software on your computer. You can do this by installing it through the Microsoft Store. Additionally, there are several extensions that you must also install via the CMD, as follows:
+Before attempting the Python code in My repository, you must install the Python software on your computer. You can do this by installing it through the Microsoft Store. Additionally, there are several extensions that you must also install via the CMD, as follows:
 
     pip install pycryptodome
     pip install pillow
